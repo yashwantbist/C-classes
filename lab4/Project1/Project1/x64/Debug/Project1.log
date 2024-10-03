@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\yashw\OneDrive\Desktop\Lab 4 cpp\Project1\Project1\Main.cpp(13,8): error C2374: 'myObjPointer': redefinition; multiple initialization
+  C:\Users\yashw\OneDrive\Desktop\Lab 4 cpp\Project1\Project1\Main.cpp(7,8):
+  see declaration of 'myObjPointer'
+  
+  Ship.cpp
+  Generating Code...
